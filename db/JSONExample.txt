@@ -1,4 +1,7 @@
 {
+  "printApi": "show-report",
+  "printTaskId": "1234567",
+  "responseTopic": "print/receive/1234",
   "printTemp": "差旅费报销单",
   "printer": "针式打印机",
   "printCn": 1,
